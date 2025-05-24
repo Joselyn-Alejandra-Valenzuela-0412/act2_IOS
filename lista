@@ -1,0 +1,44 @@
+{
+  "mangas": [
+    {
+      "id_manga": 1,
+      "titulo": "Attack on Titan",
+      "volumen": 34,
+      "genero": ["Acción", "Drama", "Fantasía oscura"],
+      "sinopsis": "La humanidad vive en ciudades rodeadas de enormes muros para protegerse de los Titanes, seres gigantescos que devoran personas. Eren Jaeger y sus amigos se unen al ejército para luchar contra esta amenaza.",
+      "fecha_publ": "2021-06-09",
+      "precio": 12.99,
+      "imagen": "https://ejemplo.com/imagenes/attack-on-titan-vol34.jpg"
+    },
+    {
+      "id_manga": 2,
+      "titulo": "Demon Slayer: Kimetsu no Yaiba",
+      "volumen": 23,
+      "genero": ["Acción", "Aventura", "Sobrenatural"],
+      "sinopsis": "Tanjiro Kamado se convierte en un cazador de demonios después de que su familia sea asesinada y su hermana Nezuko se transforme en un demonio. Ahora busca venganza y una cura para ella.",
+      "fecha_publ": "2020-12-04",
+      "precio": 10.50,
+      "imagen": "https://ejemplo.com/imagenes/demon-slayer-vol23.jpg"
+    },
+    {
+      "id_manga": 3,
+      "titulo": "One Piece",
+      "volumen": 103,
+      "genero": ["Aventura", "Comedia", "Fantasía"],
+      "sinopsis": "Monkey D. Luffy y su tripulación de piratas buscan el legendario tesoro 'One Piece' para convertirse en el Rey de los Piratas. Un viaje lleno de batallas, islas extrañas y amigos.",
+      "fecha_publ": "2023-04-04",
+      "precio": 9.99,
+      "imagen": "https://ejemplo.com/imagenes/one-piece-vol103.jpg"
+    },
+    {
+      "id_manga": 4,
+      "titulo": "Chainsaw Man",
+      "volumen": 11,
+      "genero": ["Acción", "Horror", "Sobrenatural"],
+      "sinopsis": "Denji, un pobre cazador de demonios, se fusiona con su mascota-demonio, Pochita, y se convierte en Chainsaw Man. Ahora trabaja para el gobierno mientras lucha contra demonios y sus propios deseos.",
+      "fecha_publ": "2022-11-03",
+      "precio": 11.25,
+      "imagen": "https://ejemplo.com/imagenes/chainsaw-man-vol11.jpg"
+    }
+  ]
+}
